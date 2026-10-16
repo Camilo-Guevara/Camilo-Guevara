@@ -2,7 +2,7 @@
 
 # ¡Hola! Soy Cristian Camilo Guevara 
 
-### Estudiante de Análisis de Sistemas | Ciencia de Datos | Desarrollo de Software
+### Análisis de Sistemas | Python & Data Science | Machine Learning en formación
 
 📍 Buenos Aires, Argentina · 🌎 Español nativo e inglés tecnico
 
@@ -25,7 +25,8 @@ Mi formación previa en **Ingeniería Topográfica (siete semestres cursados, ca
 | Área | Conocimientos |
 | --- | --- |
 | **Desarrollo** | Python, Flask, fundamentos de C#, HTML, CSS y JavaScript |
-| **Datos** | SQL, MySQL, Python, Jupyter, estadística y análisis exploratorio |
+| **Python y datos** | Python, Jupyter, estadística, probabilidad y análisis exploratorio (EDA) |
+| **Especialización en curso** | Machine Learning, regresión y clasificación, modelado estadístico, predicciones y evaluación de modelos |
 | **Ingeniería de software** | Análisis de requisitos, UML, diseño de sistemas y metodologías ágiles |
 | **Calidad** | Testing funcional, casos de prueba y fundamentos de automatización |
 | **Redes y seguridad** | Linux, TCP/IP, VirtualBox, SSH, Apache, UFW y Wireshark |
@@ -59,7 +60,7 @@ CV creativo e interactivo, en español, elaborado con HTML, CSS y JavaScript par
 
 ## Objetivo profesional
 
-Incorporarme a un equipo tecnológico en un puesto **trainee, pasantía o junior**, seguir fortaleciendo Python y SQL y avanzar progresivamente hacia datos, Cloud o ciberseguridad.
+Incorporarme a un equipo tecnológico en un puesto **trainee, pasantía o junior**, seguir fortaleciendo Python y análisis de datos, y avanzar hacia Machine Learning, modelado predictivo e inteligencia artificial sin dejar de profundizar en sistemas y ciberseguridad.
 
 ## Contacto
 
