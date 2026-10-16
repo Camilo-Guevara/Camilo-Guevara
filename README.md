@@ -39,13 +39,13 @@ Mi formación previa en **Ingeniería Topográfica (siete semestres cursados, ca
 
 Proyecto académico para practicar autenticación, catálogo de productos, validación de stock y flujo de pedidos. Incluye código y documentación técnica. **Estado: en revisión y mejoras de seguridad; no es una aplicación de producción.**
 
-### 🥗 Frugi App — análisis y diseño de sistemas
+### 🥗 [Frugi App — análisis y diseño de sistemas](proyectos/frugi-app/README.md)
 
-Proyecto grupal centrado en la definición de requisitos, historias de usuario, diagramas UML y planificación de una solución de comparación de productos y recetas. **Documentación pública: pendiente.**
+Proyecto grupal centrado en la definición de requisitos, historias de usuario, diagramas UML y planificación de una solución de comparación de productos y recetas. **Documentación técnica: [ver alcance, artefactos y diagramas](proyectos/frugi-app/README.md).**
 
-### 🛡️ CyberLab — redes y ciberseguridad
+### 🛡️ [CyberLab — redes y ciberseguridad](proyectos/cyberlab/README.md)
 
-Laboratorio académico con Windows y Ubuntu en máquinas virtuales, orientado a conectividad, servicios de red y controles básicos de seguridad. **Documentación pública: pendiente.**
+Laboratorio académico con Windows y Ubuntu en máquinas virtuales, orientado a conectividad, servicios de red y controles básicos de seguridad. **Documentación técnica: [ver topología, pruebas y límites](proyectos/cyberlab/README.md).**
 
 ### 🌐 [Mi portafolio web](https://camilo-guevara.github.io/)
 
