@@ -72,6 +72,20 @@ Test-NetConnection 192.168.10.10 -Port 22
 
 La ejecución anterior de SSH y HTTP **no prueba** que el firewall esté correctamente restringido. Evitar cambiar reglas o deshabilitar servicios hasta registrar su estado y dependencias.
 
+## Evidencias fotográficas recuperadas
+
+Estas capturas se extrajeron del informe de avance del laboratorio de septiembre de 2026. Son **resultados históricos**, no una nueva comprobación del estado actual.
+
+**Conexión SSH autenticada de Windows a Ubuntu**
+
+![Sesión SSH histórica del laboratorio CyberLab](evidencias/cyberlab-ssh-historico.jpeg)
+
+**Página Apache de Ubuntu accesible desde Windows**
+
+![Respuesta HTTP histórica del servidor Apache](evidencias/cyberlab-apache-http-historico.png)
+
+Consulta [el registro de procedencia y limitaciones](evidencias/IMAGENES.md).
+
 ## Evidencias fotográficas
 
 Los informes fuente describen capturas reales intercambiadas durante las prácticas, pero **las imágenes originales no han podido recuperarse y verificarse para adjuntarlas en esta publicación**. No se han añadido capturas inventadas. Antes de publicarlas, ocultar nombres de usuario innecesarios, identificadores de equipo, rutas privadas y posibles secretos.
