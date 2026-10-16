@@ -96,6 +96,8 @@ Se localizó en el correo del equipo una invitación de **Gastón Bustos** a edi
 
 La [presentación original del Hito 2](https://docs.google.com/presentation/d/1ib9vB_RXP-wuHIQY32SZ3X6SkeclL2qnYwzOQXkf40E/edit) consta de **14 diapositivas**. La **diapositiva 5** muestra priorización MoSCoW y la **diapositiva 11** menciona el prototipo interactivo. Se identificaron imágenes incrustadas en la presentación, pero **no se exportaron todavía** como archivos independientes debido a restricciones del origen.
 
+**Enlace del prototipo Figma Make compartido por el equipo:** [Abrir Prototipo interactivo FRUGI](https://www.figma.com/make/6XiP29YBStEDyQakzU6E81/Prototipo-interactivo-FRUGI?fullscreen=1&t=EgsvjtNKhEfdfzbd-1&code-node-id=0-9). Esta URL fue facilitada por el titular; el acceso y la interacción visual aún no se pudieron verificar desde la conexión disponible. **No constituye evidencia de despliegue en producción.**
+
 ## Evidencias y pendientes
 
 - [x] Documentación conceptual basada en materiales académicos existentes.
