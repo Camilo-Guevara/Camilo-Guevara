@@ -82,7 +82,8 @@ Consulta [origen y descripción de las imágenes](evidencias/IMAGENES.md). El us
 - [x] Documentación conceptual basada en materiales académicos existentes.
 - [x] Diagrama de alcance conceptual, reproducible en Mermaid.
 - [x] Adjuntar dos imágenes de diseño procedentes del informe académico.
-- [ ] Revisar autorización de publicación del equipo y anexar diagramas UML, matrices y capturas de Figma adicionales.
+- [x] Autorización de publicación del equipo confirmada por el usuario.
+- [ ] Recuperar archivos originales adicionales de Figma, UML y matrices antes de publicarlos como evidencias nuevas.
 - [ ] Conciliar las versiones de hitos, presupuesto, roles y alcance con la versión final del equipo.
 - [ ] Identificar qué componentes, si alguno, están ejecutándose en una demo real.
 
