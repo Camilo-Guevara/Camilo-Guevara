@@ -1,10 +1,10 @@
 <div align="center">
 
-# ¡Hola! Soy Cristian Camilo Guevara 👋
+# ¡Hola! Soy Cristian Camilo Guevara 
 
 ### Estudiante de Análisis de Sistemas | Ciencia de Datos | Desarrollo de Software
 
-📍 Buenos Aires, Argentina · 🌎 Español nativo e inglés avanzado
+📍 Buenos Aires, Argentina · 🌎 Español nativo e inglés tecnico
 
 **Busco oportunidades Trainee / Junior** en desarrollo de software, análisis de datos, QA y tecnología.
 
@@ -14,13 +14,13 @@
 
 ---
 
-## 👨‍💻 Sobre mí
+##  Sobre mí
 
 Estoy cursando la **Tecnicatura Superior en Análisis de Sistemas (IFTS N.º 9)** y una **Diplomatura en Ciencia de Datos y Análisis Avanzado (UTN)**. Me interesa conectar el análisis de problemas, el desarrollo de software y el trabajo con datos para construir soluciones útiles.
 
 Mi formación previa en **Ingeniería Topográfica (siete semestres cursados, carrera no finalizada)** fortaleció mi enfoque analítico. Actualmente complemento mis estudios con proyectos académicos de programación, diseño de sistemas, redes y seguridad informática.
 
-## 🧰 Tecnologías y conocimientos en desarrollo
+## Tecnologías y conocimientos en desarrollo
 
 | Área | Conocimientos |
 | --- | --- |
@@ -33,7 +33,7 @@ Mi formación previa en **Ingeniería Topográfica (siete semestres cursados, ca
 
 > Estas habilidades reflejan **aprendizaje y práctica académica**, no años de experiencia profesional.
 
-## 🚀 Proyectos académicos
+##  Proyectos académicos
 
 ### 🛒 [E-commerce con Flask y MySQL](https://github.com/Camilo-Guevara/e-commerce-flash-ifts9)
 
@@ -57,11 +57,11 @@ CV creativo e interactivo, en español, elaborado con HTML, CSS y JavaScript par
 - **UTN:** Diplomatura en Ciencia de Datos y Análisis Avanzado — *en curso*.
 - **Universidad Distrital Francisco José de Caldas:** Ingeniería Topográfica — siete semestres cursados, *no finalizada*.
 
-## 🎯 Objetivo profesional
+## Objetivo profesional
 
 Incorporarme a un equipo tecnológico en un puesto **trainee, pasantía o junior**, seguir fortaleciendo Python y SQL y avanzar progresivamente hacia datos, Cloud o ciberseguridad.
 
-## 🤝 Contacto
+## Contacto
 
 - [LinkedIn](https://www.linkedin.com/in/camilo-guevara-778a80385/)
 - [Portafolio](https://camilo-guevara.github.io/)
