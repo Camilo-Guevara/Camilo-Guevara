@@ -63,6 +63,20 @@ Las historias de esta tabla son una **síntesis documental orientativa**, no cit
 
 **Los documentos originales no se incorporan automáticamente porque pueden contener nombres del equipo, material académico y versiones contradictorias.** Su publicación debe autorizarse y revisarse.
 
+## Fotografías de los informes
+
+Las siguientes imágenes fueron extraídas del informe académico de Frugi App y se presentan como **material visual de diseño**, no como capturas de una aplicación desplegada.
+
+**Prototipo y propuesta visual 1**
+
+![Diseño académico de Frugi App, evidencia 1](evidencias/frugi-prototipo-01.png)
+
+**Prototipo y propuesta visual 2**
+
+![Diseño académico de Frugi App, evidencia 2](evidencias/frugi-prototipo-02.png)
+
+Consulta [origen y descripción de las imágenes](evidencias/IMAGENES.md). La publicación pública debe respetar los permisos de los autores del trabajo grupal.
+
 ## Evidencias y pendientes
 
 - [x] Documentación conceptual basada en materiales académicos existentes.
