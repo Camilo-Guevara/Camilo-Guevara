@@ -75,7 +75,7 @@ Las siguientes imágenes fueron extraídas del informe académico de Frugi App y
 
 ![Diseño académico de Frugi App, evidencia 2](evidencias/frugi-prototipo-02.png)
 
-Consulta [origen y descripción de las imágenes](evidencias/IMAGENES.md). La publicación pública debe respetar los permisos de los autores del trabajo grupal.
+Consulta [origen y descripción de las imágenes](evidencias/IMAGENES.md). El usuario confirmó que todos los participantes aprobaron la publicación de estas imágenes del trabajo grupal.
 
 ## Evidencias y pendientes
 
