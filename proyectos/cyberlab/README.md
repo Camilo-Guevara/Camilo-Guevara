@@ -88,17 +88,7 @@ Consulta [el registro de procedencia y limitaciones](evidencias/IMAGENES.md).
 
 ## Evidencias fotográficas
 
-Los informes fuente describen capturas reales intercambiadas durante las prácticas, pero **las imágenes originales no han podido recuperarse y verificarse para adjuntarlas en esta publicación**. No se han añadido capturas inventadas. Antes de publicarlas, ocultar nombres de usuario innecesarios, identificadores de equipo, rutas privadas y posibles secretos.
-
-Propuesta de organización cuando se recuperen y autoricen:
-
-- `evidencias/01-red-virtualbox.png` — adaptadores RED-EMPRESA.
-- `evidencias/02-direccionamiento.png` — direcciones de ambas VM.
-- `evidencias/03-ping.png` — conectividad.
-- `evidencias/04-http-apache.png` — acceso desde Windows.
-- `evidencias/05-ssh.png` — sesión remota sin credenciales.
-- `evidencias/06-ufw.png` — **solo cuando el estado se pueda comprobar nuevamente**.
-- `evidencias/07-wireshark.png` — **solo después de una captura real**.
+Se recuperaron y adjuntaron dos capturas históricas: sesión SSH y página Apache. Las imágenes no acreditan UFW, Wireshark ni el estado de las VM en el presente. Las evidencias adicionales siguen pendientes de captura y revisión de datos privados.
 
 ## Documentación de referencia
 
