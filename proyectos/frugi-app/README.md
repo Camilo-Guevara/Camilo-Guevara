@@ -77,6 +77,19 @@ Las siguientes imágenes fueron extraídas del informe académico de Frugi App y
 
 Consulta [origen y descripción de las imágenes](evidencias/IMAGENES.md). El usuario confirmó que todos los participantes aprobaron la publicación de estas imágenes del trabajo grupal.
 
+## Fuentes adicionales localizadas en Google Drive
+
+En la revisión del Drive del proyecto se identificaron estos documentos, consultables en sus ubicaciones originales:
+
+| Documento | Evidencia que aporta |
+| --- | --- |
+| [FRUGI App — Hito 2 (presentación)](https://docs.google.com/presentation/d/1ib9vB_RXP-wuHIQY32SZ3X6SkeclL2qnYwzOQXkf40E/edit) | Priorización MoSCoW, narrativa del MVP y referencia al prototipo interactivo |
+| [HITO 2 — Sistemas](https://docs.google.com/document/d/1US14rNpzPsHyXUvybi2R698CSVDZeHNhjJwHIIJWBmA/edit) | Ideación y evaluación de factibilidad técnica |
+| [Frugi-App EDT/WBS](https://docs.google.com/document/d/1Arkf8X4ImhqGOimC9JsEoOeFFUKGevZKwKLGr55-dBI/edit) | Planificación de entregables, arquitectura propuesta y tareas de Figma |
+| [Frugi App — Hito 2 Pre Pitch](https://docs.google.com/document/d/1tPOcw-LbXztDr16jO-nU5gagtIQfy2q7EUeB0PMjsxc/edit) | Desarrollo del concepto y propuesta de valor |
+
+Los enlaces apuntan a fuentes de Drive, por lo que su acceso depende de los permisos del propietario. La presentación contiene una referencia al prototipo interactivo, **pero no constituye por sí misma una exportación de sus pantallas**. No se afirma que los componentes planificados estén implementados.
+
 ## Evidencias y pendientes
 
 - [x] Documentación conceptual basada en materiales académicos existentes.
