@@ -90,6 +90,12 @@ En la revisión del Drive del proyecto se identificaron estos documentos, consul
 
 Los enlaces apuntan a fuentes de Drive, por lo que su acceso depende de los permisos del propietario. La presentación contiene una referencia al prototipo interactivo, **pero no constituye por sí misma una exportación de sus pantallas**. No se afirma que los componentes planificados estén implementados.
 
+## Archivo fuente de Figma localizado
+
+Se localizó en el correo del equipo una invitación de **Gastón Bustos** a editar el archivo denominado **«Prototipo interactivo FRUGI»** en Figma. La invitación contiene un enlace de acceso personal de Figma; por privacidad, ese enlace de invitación no se publica en este repositorio. Para obtener una URL pública o de solo lectura del prototipo, abrir el archivo desde la invitación con la cuenta autorizada y usar la opción **Compartir → Copiar enlace**.
+
+La [presentación original del Hito 2](https://docs.google.com/presentation/d/1ib9vB_RXP-wuHIQY32SZ3X6SkeclL2qnYwzOQXkf40E/edit) consta de **14 diapositivas**. La **diapositiva 5** muestra priorización MoSCoW y la **diapositiva 11** menciona el prototipo interactivo. Se identificaron imágenes incrustadas en la presentación, pero **no se exportaron todavía** como archivos independientes debido a restricciones del origen.
+
 ## Evidencias y pendientes
 
 - [x] Documentación conceptual basada en materiales académicos existentes.
