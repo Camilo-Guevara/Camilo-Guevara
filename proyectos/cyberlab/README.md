@@ -90,6 +90,14 @@ Consulta [el registro de procedencia y limitaciones](evidencias/IMAGENES.md).
 
 Se recuperaron y adjuntaron dos capturas históricas: sesión SSH y página Apache. Las imágenes no acreditan UFW, Wireshark ni el estado de las VM en el presente. Las evidencias adicionales siguen pendientes de captura y revisión de datos privados.
 
+## Evidencias complementarias de trabajos anteriores
+
+Se revisó también el informe académico `TP2_Capa_Enlace_Datos_Cristian_Camilo_Guevara.docx` (15 páginas). Sus páginas 10–12 incluyen una **topología gráfica** y reconstrucciones didácticas de direccionamiento, conectividad, HTTP y SSH. Estas figuras son explicaciones elaboradas a partir de resultados previos y **no sustituyen capturas originales de las terminales**.
+
+El mismo informe incluye un procedimiento propuesto para Wireshark, pero **no demuestra que se haya realizado una captura de tráfico**. Por esta razón no se publican imágenes de UFW o Wireshark como si fueran pruebas efectivas.
+
+**Registro de procedencia:** las fotografías auténticas disponibles continúan siendo `evidencias/cyberlab-ssh-historico.jpeg` y `evidencias/cyberlab-apache-http-historico.png`; ambas están integradas arriba. Otras fotografías mencionadas en conversaciones anteriores deberán recuperarse como archivos originales antes de añadirse.
+
 ## Documentación de referencia
 
 - «Informe_avance_TP_PyME_vulnerable.docx» (29/09/2026): pruebas de red, HTTP/SSH, límites y pendientes.
