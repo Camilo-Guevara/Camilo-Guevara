@@ -58,6 +58,10 @@ CV creativo e interactivo, en español, elaborado con HTML, CSS y JavaScript par
 - **UTN:** Diplomatura en Ciencia de Datos y Análisis Avanzado — *en curso*.
 - **Universidad Distrital Francisco José de Caldas:** Ingeniería Topográfica — siete semestres cursados, *no finalizada*.
 
+## Certificaciones
+
+- **Introducción a Ciberseguridad** — Cisco Networking Academy · Curso completado, **octubre de 2026**. Certificado de finalización que complementa mi formación en sistemas y mis prácticas académicas de redes y seguridad.
+
 ## Objetivo profesional
 
 Incorporarme a un equipo tecnológico en un puesto **trainee, pasantía o junior**, seguir fortaleciendo Python y análisis de datos, y avanzar hacia Machine Learning, modelado predictivo e inteligencia artificial sin dejar de profundizar en sistemas y ciberseguridad.
