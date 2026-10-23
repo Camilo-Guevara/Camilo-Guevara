@@ -60,6 +60,7 @@ CV creativo e interactivo, en español, elaborado con HTML, CSS y JavaScript par
 
 ## Certificaciones
 
+- **AWS Educate — Introduction to Cloud 101** · Amazon Web Services · **23/10/2026**. Certificado digital de finalización confirmado por el emisor. Fundamentos de nube, arquitectura, servicios esenciales, seguridad y responsabilidad compartida. [Ver en mi CV digital](https://camilo-guevara.github.io/#certificaciones). Insignia personal verificable de Credly pendiente de enlazar; formación inicial, no certificación profesional AWS.
 - **Introducción a Ciberseguridad** — Cisco Networking Academy · Curso completado, **octubre de 2026**. Certificado de finalización que complementa mi formación en sistemas y mis prácticas académicas de redes y seguridad.
 
 ## Objetivo profesional
